@@ -1,0 +1,12 @@
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\bin\Debug\Metin Yazarı Belirleme.exe.config
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\bin\Debug\Metin Yazarı Belirleme.exe
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\bin\Debug\Metin Yazarı Belirleme.pdb
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin Yazarı Belirleme.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin_Yazarı_Belirleme.Form1.resources
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin_Yazarı_Belirleme.Properties.Resources.resources
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin Yazarı Belirleme.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin Yazarı Belirleme.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin Yazarı Belirleme.exe
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin Yazarı Belirleme.pdb
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin_Yazarı_Belirleme.FileOperations.resources
+C:\Users\Monster\source\repos\Metin Yazarı Belirleme\Metin Yazarı Belirleme\obj\Debug\Metin_Yazarı_Belirleme.AddAuthor.resources
